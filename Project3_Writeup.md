@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./writeup_images/center_2017_10_27_18_49_38_859.jpg "center"
-[image2]: ./writeup_images/clock_wise_center_2017_10_30_22_08_39_428.jpg "clock-wise"
+[image2]: ./writeup_images/clock_wise_center_2017_10_30_22_11_16_085.jpg "clock-wise"
 [image3]: ./writeup_images/before_flip_clock_wise_center_2017_10_30_22_09_14_000.jpg "before flipping"
 [image4]: ./writeup_images/after_flip_clock_wise_center_2017_10_30_22_09_14_000.png "after flipping"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
